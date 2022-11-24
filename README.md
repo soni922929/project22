@@ -8,3 +8,8 @@ oops
 visual basic
 doubt realted to linux
 matrix laboratory
+maharashtra
+gujrat
+karnatak
+madhya pradesh
+uttar pradesh
